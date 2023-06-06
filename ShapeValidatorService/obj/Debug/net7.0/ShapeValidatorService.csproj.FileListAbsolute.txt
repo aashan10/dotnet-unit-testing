@@ -1,0 +1,12 @@
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/bin/Debug/net7.0/ShapeValidatorService.deps.json
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/bin/Debug/net7.0/ShapeValidatorService.dll
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/bin/Debug/net7.0/ShapeValidatorService.pdb
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ShapeValidatorService.csproj.AssemblyReference.cache
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ShapeValidatorService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ShapeValidatorService.AssemblyInfoInputs.cache
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ShapeValidatorService.AssemblyInfo.cs
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ShapeValidatorService.csproj.CoreCompileInputs.cache
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ShapeValidatorService.dll
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/refint/ShapeValidatorService.dll
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ShapeValidatorService.pdb
+/Users/aashan/Projects/c-sharp/unit-testing/ShapeValidatorService/obj/Debug/net7.0/ref/ShapeValidatorService.dll
