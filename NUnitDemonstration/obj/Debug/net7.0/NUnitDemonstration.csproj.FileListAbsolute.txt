@@ -1,0 +1,12 @@
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/bin/Debug/net7.0/NUnitDemonstration.deps.json
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/bin/Debug/net7.0/NUnitDemonstration.dll
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/bin/Debug/net7.0/NUnitDemonstration.pdb
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/NUnitDemonstration.csproj.AssemblyReference.cache
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/NUnitDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/NUnitDemonstration.AssemblyInfoInputs.cache
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/NUnitDemonstration.AssemblyInfo.cs
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/NUnitDemonstration.csproj.CoreCompileInputs.cache
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/NUnitDemonstration.dll
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/refint/NUnitDemonstration.dll
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/NUnitDemonstration.pdb
+/Users/aashan/Projects/c-sharp/unit-testing/NUnitDemonstration/obj/Debug/net7.0/ref/NUnitDemonstration.dll
